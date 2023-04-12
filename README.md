@@ -1,2 +1,3 @@
 # Calculator
-Calculator Java Script
+Calculator Java Script.
+Can perform the basic operations between two numbers.
